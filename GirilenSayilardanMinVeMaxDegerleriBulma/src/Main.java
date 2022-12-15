@@ -17,7 +17,7 @@ public class Main {
         System.out.print("Kaç adet sayı gireceksiniz: ");
         int g = scanner.nextInt();
         System.out.println("Sayları arka arkaya giriniz!");
-        
+
 
         for (int i = 1; i <= g; i++) {
             System.out.println(i + ". sayiyi giriniz: ");

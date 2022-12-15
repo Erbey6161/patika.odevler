@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int Turkce, Matematik, Fizik, Kimya, Tarih, Muzik;
         Scanner notgir = new Scanner(System.in);
-        System.out.print("Lutfen Turkce Notunu Giriniz : ");
+        System.out.print("Lütfen Turkce Notunu Giriniz : ");
         Turkce = notgir.nextInt();
         System.out.print("Lutfen matematik Notunu Giriniz : ");
         Matematik = notgir.nextInt();
