@@ -1,5 +1,5 @@
 public class Main {
-    public class RecurringNumbers {
+
         static boolean isIn(int[] arr, int val){
             for (int a: arr){
                 if(a==val) {
@@ -28,5 +28,5 @@ public class Main {
                 }
             }
         }
-    }
+
 }
