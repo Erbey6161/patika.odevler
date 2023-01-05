@@ -41,7 +41,7 @@ public class MineSweeper {
         }
     }
 
-    public int countStars(String[][] arr) { // Yıldızları saymak için 
+    public int countStars(String[][] arr) { // Yıldızları saymak için
         int count = 0;
         for (String[] strings : arr) {
             for (int j = 0; j < strings.length; j++) {
